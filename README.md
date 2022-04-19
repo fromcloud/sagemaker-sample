@@ -8,7 +8,7 @@
 * 훈련된 모델 호스팅 
 * 호스팅 된 모델을 이용한 추론 
 
-## linear-learner 학습기
+## linear-learner
 - linear-learner 알고리즘은 분류와 회귀 문제를 해결하기 위해 만들어진 supervised learning 의 한종류입니다.
 - 이진 분류 (예를 들어 암인가 암이 아닌가) 와 같은 문제에 있어 0과 1 이 label 이 될 수 있습니다.
 - linear-learner 알고리즘은 기존의 알고리즘에 비해 명확한 hyperparmeter 튜닝의 속도에 있어 이득을 제공합니다.
